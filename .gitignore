@@ -1,0 +1,10 @@
+@"
+.venv/
+__pycache__/
+*.db
+chroma/
+chroma_db/
+.vscode/
+*.log
+"@ | Out-File .gitignore -Encoding utf8
+*log*.txt
