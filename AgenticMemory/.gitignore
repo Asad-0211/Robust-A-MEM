@@ -1,0 +1,6 @@
+
+.venv/
+cached_memories*/
+logs/
+*.npy
+*.pkl

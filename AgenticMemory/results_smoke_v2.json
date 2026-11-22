@@ -1,0 +1,32 @@
+{
+  "model": "qwen2.5-3b",
+  "dataset": "F:\\Uni\\A-MEM\\AgenticMemory\\data/locomo10.json",
+  "memory_layer": "robust",
+  "total_questions": 0,
+  "category_distribution": {},
+  "aggregate_metrics": {},
+  "ratio": 1.0,
+  "seed": 42,
+  "legacy_c5_reference": true,
+  "refresh_index": false,
+  "memory_scope": "conversation",
+  "pooled_notes": null,
+  "cached_samples": [
+    1
+  ],
+  "stale_cache_samples": [],
+  "variant": [
+    "at0",
+    "dedupe",
+    "reembed",
+    "rev"
+  ],
+  "variant_stats": {
+    "reembedded_notes": 369
+  },
+  "only_samples": [
+    1
+  ],
+  "llm_failures": {},
+  "individual_results": []
+}
